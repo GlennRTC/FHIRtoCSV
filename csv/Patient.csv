@@ -1,0 +1,2 @@
+"Patient_ID","first_name","last_name","suffix","prefix","dob","gender","address1","address2","city","state","zip","country","phone","marital_status","death_date","patient_status","email"
+"f001","Pieter","van de Heuvel","MSc","","11/16/1944","M","Van Egmondkade 23","","Amsterdam","","1024 RJ","NLD","0648352638","Married","","finished","p.heuvel@gmail.com"
