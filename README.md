@@ -2,7 +2,6 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-Required-green.svg)
-![License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 A Node.js script that transforms FHIR (Fast Healthcare Interoperability Resources) JSON data into structured CSV files for healthcare data integration.
 
@@ -103,7 +102,7 @@ Glenn R. Tomassi
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Make yourself at 🏠.
 
 ---
 Made with ❤️ for healthcare interoperability
